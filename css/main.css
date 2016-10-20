@@ -73,3 +73,7 @@ nav li {
   display: inline-block;
   margin: .3em;
 }
+
+footer {
+  background-color: #ffe500;
+}
