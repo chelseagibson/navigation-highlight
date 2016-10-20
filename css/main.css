@@ -19,6 +19,8 @@ h1 {
   color: #b20953;
   text-align: center;
   margin: 0;
+  font-size: 3rem;
+  padding: 0.2em;
 }
 
 .nav {
@@ -91,6 +93,8 @@ h2 {
 img {
   width: 100%;
   display: block;
+  padding: 10px;
+  margin: .3em;
 }
 
 .nav .current {
