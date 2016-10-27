@@ -18,7 +18,7 @@ h1 {
   font-family: "Sigmar One";
   color: #b20953;
   text-align: center;
-  margin: 0;
+  margin: 1em;
   font-size: 3rem;
   padding: .2em;
 }
@@ -51,7 +51,7 @@ ul {
   padding: 0;
   text-align: center;
   list-style-type: none;
-  margin: 0;
+  margin: 0 -7px 0 -7px;
 }
 
 body {
