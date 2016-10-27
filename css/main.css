@@ -40,7 +40,7 @@ nav a {
   border-radius: 4px;
   color: #fff;
   margin: 0;
-  font-size: .75rem;
+  font-size: 1.125rem;
 }
 
 nav a:hover {
@@ -88,7 +88,7 @@ footer {
   padding: 10px;
   font-family: Georgia;
   color: #2f2d13;
-  font-size: 1.125rem;
+  font-size: .75rem;
   text-decoration: none;
 }
 
